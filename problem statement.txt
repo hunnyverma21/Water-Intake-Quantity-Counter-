@@ -1,0 +1,18 @@
+Problem Statement: Water Intake Quantity Counter
+
+Objective:
+Create a beginner-friendly Python program that helps a user keep track of the quantity of water they drink during a day.
+
+Problem:
+People may forget how much water they have consumed. This program should allow users to enter their daily water goal and record each quantity of water consumed. It should calculate the total intake, show the progress toward the daily goal, and display how much water remains to reach that goal.
+
+Requirements:
+1. Ask the user to enter a daily water-intake goal in millilitres.
+2. Provide a menu to add water intake, view progress, change the goal, or exit.
+3. Display total water consumed in millilitres and litres.
+4. Calculate the percentage of the goal completed and the remaining quantity.
+5. Validate user input and handle invalid menu choices.
+6. Display a final intake summary when the user exits.
+
+Limitations:
+The program stores data only while it is running. It does not save daily history to a file or database.
